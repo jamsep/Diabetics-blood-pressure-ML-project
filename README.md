@@ -1,2 +1,3 @@
 # Diabetics-blood-pressure-ML-project
-ML Project
+
+Prediction model which tries to learn if there are any patterns to one having diabetes and if it affects their blood pressure.
